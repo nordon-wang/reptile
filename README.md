@@ -65,7 +65,7 @@
 
 学习目标:
 
-- 以`http://web.itheima.com/teacher.html`网站目标为例，最终目的是下载网站中所有老师的照片：
+- 以[http://web.itheima.com/teacher.html](http://web.itheima.com/teacher.html)网站目标为例，最终目的是下载网站中所有老师的照片：
 
 ![1562843386127](../../../../%E7%A0%94%E5%8F%91%E5%B7%A5%E4%BD%9C/%E5%9C%A8%E8%81%8C%E5%8A%A0%E8%96%AA%E8%AF%BE%E7%A0%94%E5%8F%91/3-6%20%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91/resource/assets/1562843386127.png)
 
@@ -316,6 +316,8 @@ req.end()
 以上代码重复的地方非常多，可以考虑以面向对象的思想进行封装，进一步的提高代码复用率，为了方便开发，保证代码规范，建议使用TypeScript进行封装
 
 **以下知识点为扩展内容，需要对面向对象和TypeScript有一定了解！**
+
+全局安装typescript
 
 执行`tsc --init`初始化项目，生成ts配置文件
 

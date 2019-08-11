@@ -1,0 +1,24 @@
+{
+  "name": "reptile",
+  "version": "1.0.0",
+  "description": "# 第1章 课程介绍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordon-wang/reptile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nordon-wang/reptile/issues"
+  },
+  "homepage": "https://github.com/nordon-wang/reptile#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "download": "^7.1.0"
+  }
+}
