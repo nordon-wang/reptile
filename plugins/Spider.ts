@@ -6,7 +6,7 @@
  *    然后在子类中处理得到的结果即可
  * @使用:
  *    创建爬虫对象，传入URL即可
- * @Email: nordon-wang@oyohotels.cn
+ * @Email: nordon-wang
  */
 // 使用 command + shift + b 将ts编译成js
 const http = require('http')

@@ -2,7 +2,7 @@
  * @Author: nordon-wang
  * @Date: 2019-08-11 22:52:17
  * @Description: 测试爬虫类
- * @Email: nordon-wang@oyohotels.cn
+ * @Email: nordon-wang
  */
 import Spider from './Spider'
 

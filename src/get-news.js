@@ -2,7 +2,7 @@
  * @Author: nordon-wang
  * @Date: 2019-08-11 19:55:23
  * @Description: 爬取新闻信息
- * @Email: nordon-wang@oyohotels.cn
+ * @Email: nordon-wang
  */
 
 const http = require('http')
