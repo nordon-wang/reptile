@@ -2,7 +2,7 @@
  * @Author: nordon-wang
  * @Date: 2019-08-13 11:05:36
  * @Description: 爬取掘金数据
- * @Email: nordon-wang@oyohotels.cn
+ * @Email: nordon-wang
  */
 
 const { Builder, By, Key, until } = require('selenium-webdriver');
