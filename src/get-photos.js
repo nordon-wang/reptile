@@ -11,7 +11,6 @@ const cheerio = require('cheerio')
 const download = require('download')
 
 const targetUrl = 'http://web.itheima.com/teacher.html#ajavaee'
-// const targetUrl = 'https://ttpms.oyohotels.cn/#/login'
 
 let req = http.request(targetUrl, res => {
   let chunks = []
